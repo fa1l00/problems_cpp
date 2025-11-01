@@ -65,7 +65,7 @@ int main() {
 
     cout << "i - j = " << k << ":\n";
     for(int i = 0; i < count; i++) {
-        cout << selected[i] << " + ";
+        cout << selected[i] << " ";
     }
     cout << "\n suma = " << sum << endl;
 
@@ -79,3 +79,4 @@ int main() {
 
     return 0;
 }
+
